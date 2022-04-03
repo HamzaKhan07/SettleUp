@@ -1,13 +1,13 @@
 
 # 💰🤝 SettleUp
 
-MidWay a mobile app which helps the group of friends ✌️ which helps 
+MidWay a mobile app ✌️ which helps 
 the group of people 🤝 to split any expense equally ⚖️ amongst themselves
 effectively. 
 
 User just have to enter the amount 💲 paid by each person in the group
 and the app performs the magic ✨ and show who owes whom and settles
-the money ⚖️.
+the money in a creative way⚖️.
 
 Star⭐ the repo if you like what you see😉.
 
