@@ -1,16 +1,66 @@
-# settle_up
 
-A new Flutter project.
+# 💰🤝 SettleUp
 
-## Getting Started
+MidWay a mobile app which helps the group of friends ✌️ which helps 
+the group of people 🤝 to split any expense equally ⚖️ amongst themselves
+effectively. 
 
-This project is a starting point for a Flutter application.
+User just have to enter the amount 💲 paid by each person in the group
+and the app performs the magic ✨ and show who owes whom and settles
+the money ⚖️.
 
-A few resources to get you started if this is your first Flutter project:
+Star⭐ the repo if you like what you see😉.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+![Logo](https://drive.google.com/uc?id=18fjGb4C1Mj_ydX8KNicvS1xb45KYl-pj)
+
+## 🎨 Color Reference
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Example Color | ![#1D1D1D](https://via.placeholder.com/10/1D1D1D?text=+) #1D1D1D |
+| Example Color | ![#2F2F2F](https://via.placeholder.com/10/2F2F2F?text=+) #2F2F2F |
+| Example Color | ![#F2F2F2](https://via.placeholder.com/10/F2F2F2?text=+) #F2F2F2 |
+
+
+
+## 💡 Features
+
+- Place Autosuggestion.
+- Calculates midpoint from multiple locations.
+- Draws route from all Source Places to Midpoint.
+- Cross platform
+
+
+## 📸 Screenshots
+
+![App Screenshot](https://drive.google.com/uc?id=1hOl3nM_ICj9MkJBYAgq1sYQs-K3efjvM)
+
+![App Screenshot](https://drive.google.com/uc?id=1jrsSqsKoe3CPBxHpneJvweyeHqJJoweT)
+
+![App Screenshot](https://drive.google.com/uc?id=1tLgflXTI0wc0WSj_5wfkUd3PgVtjlGbK)
+
+![App Screenshot](https://drive.google.com/uc?id=1VPEyQGDCAit_8UU0QbTOYZnUyAcfOEY_)
+
+## 💻 Tech Stack
+
+Flutter and Dart
+
+
+
+## ⚙️ Installation
+
+Install "SettleUp" from the below link:
+
+```web
+  shorturl.at/moyzD
+```
+    
+## ✍️ Authors
+
+- [@HamzaKhan07](https://www.github.com/hamzakhan48208)
+
