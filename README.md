@@ -30,10 +30,10 @@ Star⭐ the repo if you like what you see😉.
 
 ## 💡 Features
 
-- Place Autosuggestion.
-- Calculates midpoint from multiple locations.
-- Draws route from all Source Places to Midpoint.
-- Cross platform
+- Show Expense Share in Beautiful Charts.
+- Expense Result can be shared on Social Media.
+- Efficiently Splits up the Expense amoungst the Group.
+- Cross platform.
 
 
 ## 📸 Screenshots
