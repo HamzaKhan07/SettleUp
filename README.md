@@ -1,7 +1,7 @@
 
 # 💰🤝 SettleUp
 
-MidWay a mobile app ✌️ which helps 
+SettleUp a mobile app ✌️ which helps 
 the group of people 🤝 to split any expense equally ⚖️ amongst themselves
 effectively. 
 
