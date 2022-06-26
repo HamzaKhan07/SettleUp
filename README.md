@@ -9,7 +9,7 @@ User just have to enter the amount 💲 paid by each person in the group
 and the app performs the magic ✨ and show who owes whom and settles
 the money in a creative way⚖️.
 
-Star⭐ the repo if you like what you see😉.
+Star⭐ the repo if you like what you see😉
 
 
 
