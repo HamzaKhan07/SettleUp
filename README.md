@@ -62,5 +62,5 @@ Install "SettleUp" from the below link:
     
 ## ✍️ Authors
 
-- [@HamzaKhan07](https://www.github.com/hamzakhan48208)
+- [@HamzaKhan07](https://www.github.com/hamzakhan07)
 
